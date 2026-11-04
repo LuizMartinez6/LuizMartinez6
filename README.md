@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Luiz 👋
 
-<!--
-**LuizMartinez6/LuizMartinez6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Automation Engineer with 5+ years of experience in software quality.
+I work with UI and API test automation using Playwright, Cypress and JavaScript/TypeScript, running tests in CI/CD pipelines.
 
-Here are some ideas to get you started:
+## Tech stack
+Playwright • Cypress • JavaScript • TypeScript • Postman • REST APIs • GitLab CI • GitHub Actions • Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [appsec-qa-lab](https://github.com/LuizMartinez6/appsec-qa-lab): learning lab with automated REST API security tests using Playwright and TypeScript.
+- [playwright-markL](https://github.com/LuizMartinez6/playwright-markL): Playwright study project with TypeScript.
+- [cypress-typescript](https://github.com/LuizMartinez6/cypress-typescript): Cypress and TypeScript study project.
+
+## Currently learning
+Improving my TypeScript skills and exploring API security testing.
